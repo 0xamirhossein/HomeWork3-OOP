@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Task1/">
+    <Project Path="../Task1/Task1.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="../Task2/Task2.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="../Task3/Task3.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="../Task4/Task4.csproj" />
+  </Folder>
+  <Project Path="HW-L3-01-OOP.csproj" />
+</Solution>
